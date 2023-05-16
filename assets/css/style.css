@@ -1,0 +1,62 @@
+.bar_color {
+  background-color: #28A745;
+}
+
+.font_type {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 300;
+  color: #212529;
+}
+
+.font_type_provider {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 100;
+  color: #707070;
+}
+
+.font_type_location {
+  font-family: "Roboto";
+  font-size: 13px;
+  font-weight: 100;
+  color: #707070;
+  text-decoration: none;
+}
+
+.font_type_price {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 100;
+  color: #707070;
+
+}
+
+.font_type_price_green {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 500;
+  color: #28A745;
+
+}
+
+.font_type_form {
+  font-family: "Roboto";
+  font-size: 21px;
+  font-weight: 500;
+  color: #FFFF;
+}
+
+.font_type_button {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 500;
+  color: #212529;
+}
+
+footer {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 100;
+  color: #707070;
+}
